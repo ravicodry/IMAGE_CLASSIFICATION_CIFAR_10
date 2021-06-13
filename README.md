@@ -15,6 +15,10 @@ Also tried to find which  model is better for this dataset
 3-Tenor
 4- Logistic Regression.
 
+
+On all the above mentioned models , performance evaluation, losses comparison and accuracy were calculated. 
+We have also Tried different parameters and their value so that we can get better accuracy.
+
 ## Library used:
  -matplotlib
  -tensor
